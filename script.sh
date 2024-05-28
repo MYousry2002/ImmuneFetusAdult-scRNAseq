@@ -1,0 +1,3 @@
+java -jar /home/me1117/ena-file-downloader.jar --accessions= /home/me1117/ImmuneFetusAdult-scRNAseq/dataset/fetus/spleen/accessions.tsv --format=READS_SUBMITTED --location= /home/me1117/ImmuneFetusAdult-scRNAseq/dataset/fetus/spleen --protocol=FTP --asperaLocation=null --email=mohamed_elsadec@dfci.harvard.edu
+
+java -jar /home/me1117/ena-file-downloader.jar --accessions= /home/me1117/ImmuneFetusAdult-scRNAseq/dataset/fetus/thymus/accessions.tsv --format=READS_SUBMITTED --location= /home/me1117/ImmuneFetusAdult-scRNAseq/dataset/fetus/thymus --protocol=FTP --asperaLocation=null --email=mohamed_elsadec@dfci.harvard.edu
