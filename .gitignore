@@ -1,4 +1,5 @@
-/dataset/fetus/thymus/reads_submitted/
-/dataset/fetus/spleen/reads_submitted/
+/dataset/fetus/thymus/
+/dataset/fetus/spleen/
 /dataset/adult-pbmcs/
-/logs/
+/reference_transcriptome/
+/aligned_quantified/
