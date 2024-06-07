@@ -54,8 +54,8 @@ for sample in "${sample_ids[@]}"; do
                            --fastqs="$fastq_dir/$sample_id/$err_dir" \
                            --create-bam true \
                            --sample="$actual_sample_name" \
-                           --localcores=20 \
-                           --localmem=320
+                           --localcores=40 \
+                           --localmem=640
     echo "$sample_id processing complete."
 done
 
